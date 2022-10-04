@@ -1,0 +1,17 @@
+@eva-design/eva
+@react-navigation/native
+@react-navigation/native-stack
+@reduxjs/toolkit
+@ui-kitten/components
+@ui-kitten/eva-icons
+axios
+expo-app-loading
+expo-font
+expo-splash-screen
+react-native-gesture-handler
+react-native-reanimated
+react-native-safe-area-context
+react-native-screens
+react-native-svg
+react-redux
+redux
